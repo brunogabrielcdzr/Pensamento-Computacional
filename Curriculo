@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+      <title>Currículo</title>
+      <link rel="stylesheet" href="style.css">
+  </head>
+      
+  <body>
+      <header>
+          <h1 class="titulo-principal">Bruno
+            Gabriel Cardozo Ribeiro</h1>
+    </header>
+                           <div class="principal">
+                               <h2 class="titulo-centralizado">
+Formação: Cursando o Ensino Medio                       </h2>
+                                  
+                             <p><strong>Objetivo:</strong> desenvolver cada vez mais na tecnologia</p>
+                             <div class="informacoes">
+                                 <h3 class="titulo-centralizado">Dados gerais:<h/h3>
+                                   <ul>
+            <li class="itens">Endereço: Rua Manoel Machuca 250</li>
+            <li class="itens">Contato:42 998575607</li>
